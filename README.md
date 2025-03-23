@@ -22,7 +22,7 @@ To visualize and analyze patterns in the data professional landscape, such as:
 
 ## 📁 Files Included
 - `Data Professional Survey Breakdown.pbix` – Final Power BI dashboard
-- `dashboard_screenshots/` – 
+- `dashboard_screenshots/` 
 - `Summary.pdf` 
 
 ---
@@ -35,13 +35,16 @@ To visualize and analyze patterns in the data professional landscape, such as:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Previews
 
-> ⚠️ Add images like this after uploading them:
-> 
-> ```markdown
-> ![Main Dashboard](dashboard_screenshots/main_overview.png)
-> ```
+### 👤 Overview 
+![Overview](dashboard_screenshots/Overview.png)
+
+### 💼 Focus on Data Analysts
+![Data Analyst](dashboard_screenshots/DataAnalyst.png)
+
+### 🌍 Salary Breakdown – United Kingdom
+![UK Salary](dashboard_screenshots/UnitedKingdom.png)
 
 ---
 
@@ -53,5 +56,4 @@ To visualize and analyze patterns in the data professional landscape, such as:
 ---
 
 ## 🔗 Let’s Connect
-- 📧 your.email@example.com  
-- 💼 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn Profile]((https://www.linkedin.com/in/cameren-philip-94a3641aa/))  
