@@ -41,10 +41,10 @@ To visualize and analyze patterns in the data professional landscape, such as:
 ![Overview](dashboard_screenshots/Overview.png)
 
 ### 💼 Focus on Data Analysts
-![Data Analyst](dashboard_screenshots/DataAnalyst.png)
+![Data Analyst](dashboard_screenshots/Data_Analyst.png)
 
 ### 🌍 Salary Breakdown – United Kingdom
-![UK Salary](dashboard_screenshots/UnitedKingdom.png)
+![UK Salary](dashboard_screenshots/United_Kingdom.png)
 
 ---
 
