@@ -21,7 +21,7 @@ To visualize and analyze patterns in the data professional landscape, such as:
 ---
 
 ## 📁 Files Included
-- `Data Professional Survey Breakdown.pbix` – Final Power BI dashboard
+- 📁 [Download the Power BI Dashboard](Data_Professional_Survey_Breakdown.pbix)
 - 📄 [Click here to view the project summary](Data_Professional_Survey_Summary.pdf.pdf)
 
 
