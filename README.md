@@ -57,5 +57,5 @@ To visualize and analyze patterns in the data professional landscape, such as:
 
 ## 🔗 Let’s Connect
 - 📧 CamerenPhilips@hotmail.com 
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/camerenphilip)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/cameren-philip)
 
