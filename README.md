@@ -22,8 +22,8 @@ To visualize and analyze patterns in the data professional landscape, such as:
 
 ## 📁 Files Included
 - `Data Professional Survey Breakdown.pbix` – Final Power BI dashboard
-- `dashboard_screenshots/` 
-- `Summary.pdf` 
+- `click here to view the full project summary` - (Summary.pdf)
+
 
 ---
 
@@ -56,4 +56,4 @@ To visualize and analyze patterns in the data professional landscape, such as:
 ---
 
 ## 🔗 Let’s Connect
-- 💼 [LinkedIn Profile]((https://www.linkedin.com/in/cameren-philip-94a3641aa/))  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/cameren-philip-94a3641aa/)](https://www.linkedin.com/posts/cameren-philip-94a3641aa_dataanalysis-powerbi-datavisualization-activity-7252742065644613632-7TW_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDRikoBSQo4-FyLK-RhyBiB2EmcGkj1e1I))  
